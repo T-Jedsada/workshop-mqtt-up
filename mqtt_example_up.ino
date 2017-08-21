@@ -3,8 +3,8 @@
 ESPert espert;
 
 const char* mqtt_server = "mqtt.espert.io";
-const char* ssid = "20 Laboratory";
-const char* password = "mg;o9uhld^Ux";
+const char* ssid = "ssid_name";
+const char* password = "ssid_password";
 String inTopic = "UP_Team_A/LED";
 int PIN_LED = 12;
 
